@@ -1,0 +1,4 @@
+Food|150|Lunch
+Travel|80|Auto
+Food|200|Dinner
+Shopping|500|T-Shirt
